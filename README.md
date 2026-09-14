@@ -1,4 +1,4 @@
-(AuraWriter_logo.sgv) # AuraWriter
+![Logo](aurawriter_logo_64.png) # AuraWriter
 
 AuraWriter is a fast, entirely client-side web application designed to help you outline novels, manage beat sheets, and structure your creative writing. It runs entirely in your browser with zero backend requirements—meaning your ideas stay completely private and local to your machine.
 
