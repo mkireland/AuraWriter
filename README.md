@@ -1,27 +1,47 @@
+
 # AuraWriter
 
-AuraWriter is a standalone, single-file web application designed for creative writing, novel outlining, and beat sheet management. It runs entirely in your browser with zero backend requirements.
+AuraWriter is a fast, entirely client-side web application designed to help you outline novels, manage beat sheets, and structure your creative writing. It runs entirely in your browser with zero backend requirements—meaning your ideas stay completely private and local to your machine.
 
-## Features
-* **Built-in Frameworks:** Supports popular structuring methods like the 27 Chapter Method and Save the Cat.
+---
+
+## 🌟 Two Ways to Use AuraWriter
+
+### 1. AuraWriter Lite (Free)
+This repository contains the core AuraWriter experience, giving you everything you need to start structuring your story right away.
+
+**Features include:**
 * **Interactive Outline Trees:** Visually map out your narrative flow and reorganize scenes on the fly.
-* **Reference Card Manager:** Keep track of characters, settings, and plot points in one place.
-* **Word Count Goals:** Built-in calculators to keep your writing on track.
-* **JSON Export/Import:** Save your entire project locally to a single JSON file and load it back whenever you need.
+* **The 27 Chapter Method:** Built-in structural templates to guide your pacing and plot points.
+* **Zero Installation:** Runs as a single HTML file.
 
-## How to Use
+👉 **[Launch the Free Web Version Here - Insert GitHub Pages Link]**
+*(You can also download the `index.html` file from this repository to run it entirely offline!)*
 
-### Option 1: Run it Live (Free)
-You can use AuraWriter directly in your browser without downloading anything. 
-👉 **[Insert your GitHub Pages or Custom Domain Link Here]**
+---
 
-### Option 2: Run it Locally (Offline)
-Because AuraWriter is a single HTML file, you can run it perfectly offline on any device.
-1. Download the premium offline version via **[Insert your Gumroad Link Here]**.
-2. Double-click the downloaded HTML file.
-3. It will open in your default browser (Chrome, Safari, Edge, etc.) completely offline.
+### 2. AuraWriter Pro (Premium)
+Ready to build a complete story bible? **AuraWriter Pro** is the ultimate offline outlining experience, packed with advanced tools to manage every aspect of your novel.
 
-## Support & Donations
-If you find this tool helpful, consider supporting its development!
+**Pro Features include:**
+* 🎬 **Save the Cat Framework:** Access industry-standard beat sheets for tight, cinematic pacing.
+* 🗂️ **Reference Card Manager:** Keep track of character profiles, world-building settings, and complex plot threads all in one place.
+* 📊 **Word Count Goal Calculators:** Built-in tracking to keep your daily writing momentum on schedule.
+* 💾 **JSON Export/Import:** Seamlessly save your entire project locally to a single JSON file, and load it back whenever you need.
+
+🔗 **[Get AuraWriter Pro on Gumroad - Insert Link Here]**
+
+---
+
+## 🚀 How to Run the App Offline
+Because AuraWriter is built as a single, standalone HTML file, you can run it perfectly offline on any device (Windows, Mac, Linux, or ChromeOS).
+
+1. Download the `index.html` file from this repository (or your downloaded Pro version from Gumroad).
+2. Double-click the file.
+3. It will open instantly in your default web browser (Chrome, Safari, Edge, etc.) without needing an internet connection.
+
+## ❤️ Support the Project
+If you find the free version of this tool helpful and want to support its continued development, consider upgrading to Pro or dropping a tip!
+
+* [Upgrade to AuraWriter Pro]
 * [Buy me a coffee / Donate Link]
-* [Gumroad Offline Version Link]
