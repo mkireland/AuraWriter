@@ -27,6 +27,13 @@ Ready to build a complete story bible? **AuraWriter Pro** is the ultimate offlin
 * 🗂️ **Reference Card Manager:** Keep track of character profiles, world-building settings, and complex plot threads all in one place.
 * 📊 **Word Count Goal Calculators:** Built-in tracking to keep your daily writing momentum on schedule.
 * 💾 **JSON Export/Import:** Seamlessly save your entire project locally to a single JSON file, and load it back whenever you need.
+*    **Toggle Note Fields:** Get more screen space by toggling any of the Notes elements on or off.
+*    **Categories & Status:** Add your own terms for Categories and Progress with color.
+*    **Expand/Collapse Tree:** Close all folders at the same time or open them to easily focus on what your doing.
+*    **Split Pane:** To give you a side by side view of two documents at a time.
+*    **Project Title:** It will now show the project Title at the top and is editable from there.
+*    **Save as Template:** You can now save your project as a Template that will show up when you create a new project
+*    **Plus More:**
 
 #### 🖥️ AuraWriter Pro Interface
 ![Screenshot Pro Version](ScreenshotProVersion.png)
