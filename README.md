@@ -29,7 +29,7 @@ Ready to build a complete story bible? **AuraWriter Pro** is the ultimate offlin
 * 💾 **JSON Export/Import:** Seamlessly save your entire project locally to a single JSON file, and load it back whenever you need.
 
 #### 🖥️ AuraWriter Pro Interface
-![Screenshot Pro Version](images/screenshot.png)
+![Screenshot Pro Version](Screenshot Pro Version.png)
 
 🔗 **[Get AuraWriter Pro on Gumroad - Insert Link Here]**
 
