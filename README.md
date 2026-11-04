@@ -15,8 +15,7 @@ This repository contains the core AuraWriter experience, giving you everything y
 * **The 27 Chapter Method:** Built-in structural templates to guide your pacing and plot points.
 * **Zero Installation:** Runs as a single HTML file.
 
-👉 **[Launch the Free Web Version Here - (https://github.com/mkireland/AuraWriter/)]**
-*(You can also download the `index.html` file from this repository to run it entirely offline!)*
+👉 *(You can download the `index.html` file from this repository to run it entirely offline!)*
 
 ---
 
@@ -39,7 +38,7 @@ Ready to build a complete story bible? **AuraWriter Pro** is the ultimate offlin
 #### 🖥️ AuraWriter Pro Interface
 ![Screenshot Pro Version](ScreenshotProVersion.png)
 
-🔗 **[Get AuraWriter Pro on Gumroad - Insert Link Here]**
+🔗 **[Get AuraWriter Pro](https://mkireland5000.gumroad.com/l/aurawriter)**
 
 ---
 
