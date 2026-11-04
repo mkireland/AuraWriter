@@ -15,7 +15,7 @@ This repository contains the core AuraWriter experience, giving you everything y
 * **The 27 Chapter Method:** Built-in structural templates to guide your pacing and plot points.
 * **Zero Installation:** Runs as a single HTML file.
 
-👉 **[Launch the Free Web Version Here - Insert GitHub Pages Link]**
+👉 **[Launch the Free Web Version Here - (https://github.com/mkireland/AuraWriter/)]**
 *(You can also download the `index.html` file from this repository to run it entirely offline!)*
 
 ---
