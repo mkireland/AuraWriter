@@ -54,3 +54,4 @@ If you find the free version of this tool helpful and want to support its contin
 
 * [Upgrade to AuraWriter Pro](https://mkireland5000.gumroad.com/l/aurawriter)
 * [Buy me a coffee / Donate Link](https://buymeacoffee.com/mkireland)
+* [More on my website - mki-enterprises.com](https://www.mki-enterprises.com)
