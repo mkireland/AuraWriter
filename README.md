@@ -16,7 +16,8 @@ This repository contains the core AuraWriter experience, giving you everything y
 * **Zero Installation:** Runs as a single HTML file.
 
 👉 *(You can download the `index.html` file from this repository to run it entirely offline!)*
-
+1. You can click on the code button and download the zip file.
+2. Or you can double click on the file and then click the download button.
 ---
 
 ### 2. AuraWriter Pro (Premium)
