@@ -53,4 +53,4 @@ Because AuraWriter is built as a single, standalone HTML file, you can run it pe
 If you find the free version of this tool helpful and want to support its continued development, consider upgrading to Pro or dropping a tip!
 
 * [Upgrade to AuraWriter Pro](https://mkireland5000.gumroad.com/l/aurawriter)
-* [Buy me a coffee / Donate Link](buymeacoffee.com/mkireland)
+* [Buy me a coffee / Donate Link](https://buymeacoffee.com/mkireland)
